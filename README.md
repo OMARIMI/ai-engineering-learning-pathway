@@ -8,10 +8,11 @@ My goal is not just to collect certificates. My goal is to build evidence that I
 
 - Learner: Omar Imran
 - Focus: AI engineering, coding, systems thinking, and practical project building
-- Current stage: Module 2, building practical AI comparison tools
-- Current project: Model Compare Lab
-- Public project repo: [OMARIMI/model-compare-lab](https://github.com/OMARIMI/model-compare-lab)
-- Status: Early portfolio, actively improving
+- Foundations: Module 1 complete
+- Completed build progress: Model comparison, sensor data analysis, structured extraction, deterministic tool use, and local RAG
+- Current learning area: MCP, Claude Code, tools, resources, prompts, permissions, and subagents
+- Current build target: Engineering MCP Toolkit
+- Status: Active portfolio, growing through tested projects and honest evaluation
 
 ## What This Portfolio Shows
 
@@ -35,6 +36,8 @@ It includes:
 - Anthropic Academy: Claude 101
 - Anthropic Academy: AI Fluency: Framework & Foundations
 - Anthropic Academy: Claude Code 101
+- Claude Code in Action
+- Introduction to subagents
 
 Certificate files are stored in [`certificates/`](certificates/).
 
@@ -42,7 +45,14 @@ Certificate files are stored in [`certificates/`](certificates/).
 
 | Project | Status | What It Shows |
 | --- | --- | --- |
-| [Model Compare Lab](https://github.com/OMARIMI/model-compare-lab) | CLI prototype built | Python CLI, subprocess calls, command-line arguments, Rich table output, honest failure handling |
+| AI Engineering Learning Pathway Portfolio | Module 1 foundations complete | Git/GitHub setup, certificate evidence, safe public portfolio structure, learning reflection |
+| [Model Compare Lab](https://github.com/OMARIMI/model-compare-lab) | Complete | Same-prompt AI comparison, CLI workflow, saved cases, scoring rubric, failure handling, automated tests |
+| [Sensor Data Analyzer CLI](https://github.com/OMARIMI/sensor-data-analyzer-cli) | Built and working | CSV input, validation, statistics, threshold warnings, JSON reports, automated tests |
+| [Engineering Spec Extractor](https://github.com/OMARIMI/engineering-spec-extractor) | Built and evaluated | Structured engineering data extraction, missing-value handling with `null`, automated tests, 20-case evaluation with 93.75% field accuracy |
+| [Week 5 LangChain Engineering Calculator](https://github.com/OMARIMI/week5-langchain-engineering-calculator) | Built and evaluated | Local LLM tool selection, deterministic engineering calculations, validation, audit logs, 15/15 pytest and 15/15 scenario evaluation |
+| [Local Document Q&A Desktop App](https://github.com/OMARIMI/document-qa-desktop-app) | Built | PDF upload, text extraction, chunking, Ollama embeddings, ChromaDB retrieval, local answers with filename/page citations |
+| Week 6 Engineering Manual RAG | Built and evaluated | Engineering-manual retrieval, hybrid semantic and keyword search, grounded answers, citations, unsupported-question handling, 15/15 saved evaluation |
+| Engineering MCP Toolkit | Next/current build target | MCP server/client practice, calculator tool, component lookup, read-only resource, safe draft action, permission testing |
 
 Project notes are tracked in [`projects/`](projects/).
 
@@ -68,14 +78,17 @@ This portfolio is meant to show the path from learning concepts to building real
 
 ## Current Status
 
-This is an early but active portfolio. Module 1 certificates are recorded, and Module 2 project work has started with Model Compare Lab.
+This portfolio is now past the original Module 2 snapshot. Omar has completed the Module 1 foundations, finished Model Compare Lab, built the Sensor Data Analyzer CLI, built and evaluated the Engineering Spec Extractor, built the Week 5 LangChain Engineering Calculator with full test and scenario passes, and completed major Week 6 RAG work.
+
+Current work is focused on MCP and Claude Code learning. Claude Code in Action and Introduction to subagents are completed, and the next/current project target is the Engineering MCP Toolkit.
 
 Honest limitations:
 
-- More project writeups need to be added.
-- Screenshots and run logs need to be attached for stronger evidence.
-- Future projects need tests, scoring rubrics, and clearer evaluation.
-- The portfolio should be refined as more work is completed.
+- The Engineering MCP Toolkit should not be counted as complete yet.
+- Module 4 workflow and human-approval projects are not listed as complete because build evidence has not been verified.
+- Some completed projects need stronger portfolio writeups, screenshots, run logs, and linked evaluation artifacts.
+- Week 6 Engineering Manual RAG has a 15/15 saved evaluation, but the larger 25-question acceptance target should still be finished before calling that whole module fully closed.
+- The portfolio should keep being refined as new evidence is added.
 
 ## Safety and Privacy
 
