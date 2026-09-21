@@ -36,9 +36,13 @@ It includes:
 - Anthropic Academy: Claude 101
 - Anthropic Academy: AI Fluency: Framework & Foundations
 - Anthropic Academy: Claude Code 101
+- [Anthropic Academy: Claude with the Anthropic API](certificates/anthropic-claude-with-the-anthropic-api.pdf) - completed, 85/85 lessons
 - Claude Code in Action
 - Introduction to subagents
 - [x] Anthropic Prompt Engineering Interactive Tutorial - guided completion of all 9 main chapters and exercises; no certificate claimed
+- [x] OpenAI/Codex getting-started material - completed through existing Codex desktop use and official quickstart review; no separate CLI installation required
+- [x] OpenAI API Quickstart concepts - reviewed and passed a 6/6 mastery check after correction; API-key setup and a live API call were intentionally skipped
+- [x] Selected OpenAI Cookbook patterns - learned repeatable requests, structured outputs, bounded retries, and evaluation; conceptual study only
 
 Certificate files are stored in [`certificates/`](certificates/).
 
