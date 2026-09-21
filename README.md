@@ -30,7 +30,7 @@ It includes:
 
 ![DeepLearning.AI Generative AI for Everyone certificate](certificates/deeplearning-ai-generative-ai-for-everyone.png)
 
-### Certificates
+### Courses and Certificates
 
 - DeepLearning.AI: Generative AI for Everyone
 - Anthropic Academy: Claude 101
@@ -38,6 +38,7 @@ It includes:
 - Anthropic Academy: Claude Code 101
 - Claude Code in Action
 - Introduction to subagents
+- [x] Anthropic Prompt Engineering Interactive Tutorial - guided completion of all 9 main chapters and exercises; no certificate claimed
 
 Certificate files are stored in [`certificates/`](certificates/).
 
