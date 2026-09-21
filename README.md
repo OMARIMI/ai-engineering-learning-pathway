@@ -43,6 +43,8 @@ It includes:
 - [x] OpenAI/Codex getting-started material - completed through existing Codex desktop use and official quickstart review; no separate CLI installation required
 - [x] OpenAI API Quickstart concepts - reviewed and passed a 6/6 mastery check after correction; API-key setup and a live API call were intentionally skipped
 - [x] Selected OpenAI Cookbook patterns - learned repeatable requests, structured outputs, bounded retries, and evaluation; conceptual study only
+- [x] MDN-style HTTP basics - reviewed requests, responses, methods, status codes, JSON bodies, timeouts, and API-key safety; passed after correction
+- [x] Python foundations review - covered variables, collections, functions, files, exceptions, modules, JSON, CSV, CLI arguments, and pytest; scored 5/8 on the knowledge check and reviewed all corrections, with practical evidence in completed Python projects
 
 Certificate files are stored in [`certificates/`](certificates/).
 
