@@ -54,7 +54,7 @@ Certificate files are stored in [`certificates/`](certificates/).
 | --- | --- | --- |
 | AI Engineering Learning Pathway Portfolio | Module 1 foundations complete | Git/GitHub setup, certificate evidence, safe public portfolio structure, learning reflection |
 | [Model Compare Lab](https://github.com/OMARIMI/model-compare-lab) | Complete | Same-prompt AI comparison, CLI workflow, saved cases, scoring rubric, failure handling, automated tests |
-| [Sensor Data Analyzer CLI](https://github.com/OMARIMI/sensor-data-analyzer-cli) | Built and working | CSV input, validation, statistics, threshold warnings, JSON reports, automated tests |
+| [Sensor Data Analyzer CLI](https://github.com/OMARIMI/sensor-data-analyzer-cli) | Complete - 13/13 tests | CSV validation, configurable thresholds, deterministic statistics, JSON reports, saved/live public HTTP data, and documented success/failure demos |
 | [Engineering Spec Extractor](https://github.com/OMARIMI/engineering-spec-extractor) | Built and evaluated | Structured engineering data extraction, missing-value handling with `null`, automated tests, 20-case evaluation with 93.75% field accuracy |
 | [Week 5 LangChain Engineering Calculator](https://github.com/OMARIMI/week5-langchain-engineering-calculator) | Built and evaluated | Local LLM tool selection, deterministic engineering calculations, validation, audit logs, 15/15 pytest and 15/15 scenario evaluation |
 | [Local Document Q&A Desktop App](https://github.com/OMARIMI/document-qa-desktop-app) | Built | PDF upload, text extraction, chunking, Ollama embeddings, ChromaDB retrieval, local answers with filename/page citations |
@@ -85,7 +85,7 @@ This portfolio is meant to show the path from learning concepts to building real
 
 ## Current Status
 
-This portfolio is now past the original Module 2 snapshot. Omar has completed the Module 1 foundations, finished Model Compare Lab, built the Sensor Data Analyzer CLI, built and evaluated the Engineering Spec Extractor, built the Week 5 LangChain Engineering Calculator with full test and scenario passes, and completed major Week 6 RAG work.
+This portfolio is now past the original Module 2 snapshot. Omar has completed the Module 1 foundations and Module 2, including Model Compare Lab and the Sensor Data Analyzer CLI with all Builder Path checkpoints and 13/13 automated tests. He has also built and evaluated the Engineering Spec Extractor, built the Week 5 LangChain Engineering Calculator with full test and scenario passes, and completed major Week 6 RAG work.
 
 Current work is focused on MCP and Claude Code learning. Claude Code in Action and Introduction to subagents are completed, and the next/current project target is the Engineering MCP Toolkit.
 
