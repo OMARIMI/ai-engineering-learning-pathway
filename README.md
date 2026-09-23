@@ -33,6 +33,13 @@ It includes:
 ### Courses and Certificates
 
 - DeepLearning.AI: Generative AI for Everyone
+- DeepLearning.AI: ChatGPT Prompt Engineering for Developers
+- DeepLearning.AI: Building Systems with the ChatGPT API
+- DeepLearning.AI: Getting Structured LLM Output
+- DeepLearning.AI: Building and Evaluating Advanced RAG
+- DeepLearning.AI: Retrieval Augmented Generation (RAG)
+- DeepLearning.AI: MCP: Build Rich-Context AI Apps with Anthropic
+- DeepLearning.AI: Functions, Tools and Agents with LangChain
 - Anthropic Academy: Claude 101
 - Anthropic Academy: AI Fluency: Framework & Foundations
 - Anthropic Academy: Claude Code 101
@@ -45,6 +52,8 @@ It includes:
 - [x] Selected OpenAI Cookbook patterns - learned repeatable requests, structured outputs, bounded retries, and evaluation; conceptual study only
 - [x] MDN-style HTTP basics - reviewed requests, responses, methods, status codes, JSON bodies, timeouts, and API-key safety; passed after correction
 - [x] Python foundations review - covered variables, collections, functions, files, exceptions, modules, JSON, CSV, CLI arguments, and pytest; scored 5/8 on the knowledge check and reviewed all corrections, with practical evidence in completed Python projects
+
+The DeepLearning.AI account audit on September 23, 2026 showed 8 completed courses, 0 in-progress courses, 2 certificates, and 2,521 learning minutes. The Module 2 requirement, ChatGPT Prompt Engineering for Developers, is verified complete.
 
 Certificate files are stored in [`certificates/`](certificates/).
 
