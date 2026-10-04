@@ -9,9 +9,9 @@ My goal is not just to collect certificates. My goal is to build evidence that I
 - Learner: Omar Imran
 - Focus: AI engineering, coding, systems thinking, and practical project building
 - Foundations: Module 1 complete
-- Completed build progress: Model comparison, sensor data analysis, structured extraction, deterministic tool use, and local RAG
-- Current learning area: MCP, Claude Code, tools, resources, prompts, permissions, and subagents
-- Current build target: Engineering MCP Toolkit
+- Completed build progress: Model comparison, sensor data analysis, structured extraction, deterministic tool use, local RAG, and MCP server development
+- Current learning area: portfolio cleanup, evidence preservation, and next-module planning
+- Latest build: Engineering MCP Toolkit
 - Status: Active portfolio, growing through tested projects and honest evaluation
 
 ## What This Portfolio Shows
@@ -68,7 +68,7 @@ Certificate files are stored in [`certificates/`](certificates/).
 | [Week 5 LangChain Engineering Calculator](https://github.com/OMARIMI/week5-langchain-engineering-calculator) | Built and evaluated | Local LLM tool selection, deterministic engineering calculations, validation, audit logs, 15/15 pytest and 15/15 scenario evaluation |
 | [Local Document Q&A Desktop App](https://github.com/OMARIMI/document-qa-desktop-app) | Built | PDF upload, text extraction, chunking, Ollama embeddings, ChromaDB retrieval, local answers with filename/page citations |
 | Week 6 Engineering Manual RAG | Built and evaluated | Engineering-manual retrieval, hybrid semantic and keyword search, grounded answers, citations, unsupported-question handling, 15/15 saved evaluation |
-| Engineering MCP Toolkit | Next/current build target | MCP server/client practice, calculator tool, component lookup, read-only resource, safe draft action, permission testing |
+| [Engineering MCP Toolkit](https://github.com/OMARIMI/engineering-mcp-toolkit) | Complete - 23/23 tests plus live MCP stdio verification | MCP tools, component lookup, read-only resource, safe draft action, prompt template, and permission testing |
 
 Project notes are tracked in [`projects/`](projects/).
 
@@ -96,11 +96,10 @@ This portfolio is meant to show the path from learning concepts to building real
 
 This portfolio is now past the original Module 2 snapshot. Omar has completed the Module 1 foundations and Module 2, including Model Compare Lab and the Sensor Data Analyzer CLI with all Builder Path checkpoints and 13/13 automated tests. He has also built and evaluated the Engineering Spec Extractor, built the Week 5 LangChain Engineering Calculator with full test and scenario passes, and completed major Week 6 RAG work.
 
-Current work is focused on MCP and Claude Code learning. Claude Code in Action and Introduction to subagents are completed, and the next/current project target is the Engineering MCP Toolkit.
+Current work has completed the Module 6 Engineering MCP Toolkit. The next focus is preserving evidence, improving project writeups, and planning the next build.
 
 Honest limitations:
 
-- The Engineering MCP Toolkit should not be counted as complete yet.
 - Module 4 workflow and human-approval projects are not listed as complete because build evidence has not been verified.
 - Some completed projects need stronger portfolio writeups, screenshots, run logs, and linked evaluation artifacts.
 - Week 6 Engineering Manual RAG has a 15/15 saved evaluation, but the larger 25-question acceptance target should still be finished before calling that whole module fully closed.

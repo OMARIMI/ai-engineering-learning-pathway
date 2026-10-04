@@ -12,11 +12,11 @@ The goal is to become a strong young AI engineering builder, not just a course c
 
 ## Current Position
 
-- Active module: Module 2
-- Current build: Engineering Model Compare Lab
-- Current status: CLI prototype built
-- Current evidence: public GitHub repo created for Model Compare Lab
-- Next evidence needed: test questions, saved results, screenshots, and scoring rubric
+- Active area: post-Module 6 portfolio evidence and next-module planning
+- Latest completed build: Engineering MCP Toolkit
+- Current status: Module 6 MCP project complete with 23/23 tests and live MCP stdio verification
+- Current evidence: public GitHub repository published for Engineering MCP Toolkit
+- Next evidence needed: stronger portfolio writeups, screenshots, run logs, and next-module project plan
 
 ## Module Themes
 
@@ -51,10 +51,9 @@ Each serious project should include:
 
 ## Current Priority
 
-The next priority is improving Model Compare Lab:
+The next priority is preserving and improving portfolio evidence:
 
-- add 10 test questions
-- save comparison results
-- add a scoring rubric
-- add failure handling tests
-- improve the README after testing
+- preserve the Engineering MCP Toolkit checkpoint
+- add screenshots or run logs where useful
+- clean up older project writeups
+- plan the next project with clear tests and safety notes
